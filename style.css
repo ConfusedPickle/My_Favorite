@@ -9,6 +9,8 @@ body{
     align-items: center;
     justify-content: center;
     font-size: 100%;
+    border-radius: 5px;
+    border: 10px dashed black;
 }
 
 .intro {
@@ -29,8 +31,10 @@ h1 {
 }
 
 button {
-    background: black;
+    background: orange;
     padding: 15px;
     color: white;
-    border: 0;
+    border: 4px dashed palegoldenrod;
+    border-radius: 100%;
+    
 }
