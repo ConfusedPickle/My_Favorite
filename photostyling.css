@@ -1,0 +1,49 @@
+#fish {
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+}
+
+#fish2 {
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+    transform: rotate(45deg);
+}
+
+#fish3 {
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+    transform: rotate(85deg);
+}
+
+#fish4 {
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+    transform: rotate(-45deg);
+}
+
+#fish5 {
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+    transform: rotate(-85deg);
+}
+
+#button {
+    border-radius: 60%;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    margin: auto;
+}
+
+#button:hover {
+    cursor: not-allowed;
+}
+
+h1 {
+    text-align: center;
+}
